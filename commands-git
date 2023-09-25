@@ -2,3 +2,4 @@ git clone https://github.com/abdelmoula-tayai/git-begins.git
 git push -u -f origin main
 git push --all origin
 git push --tags origin
+git pull origin main
